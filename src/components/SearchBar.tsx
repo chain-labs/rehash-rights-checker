@@ -19,7 +19,7 @@ export default function SearchBar({setInputAddress, inputAddress}: {inputAddress
         <div className="flex min-h-full flex-1 flex-col justify-center px-6 py-12 lg:px-8">
   
           <div className="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
-            <form className="space-y-6" action="#" method="POST">
+            <form className="space-y-6" action="javascript:void(0);">
               <div>
                 <label htmlFor="email" className="block text-sm font-medium leading-6 text-gray-900">
                   Enter Account Address to Check Rehash Rights
